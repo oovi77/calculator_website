@@ -2,3 +2,9 @@
     color:brown;
 }
 
+.display {
+    width: 240px;
+    height: 80px;
+    border: solid 2px burlywood;
+    border-radius: 10px;
+}
